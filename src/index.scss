@@ -1,0 +1,17 @@
+$navbar-background-color: #212121;
+
+$navbar-item-color:  #fff;
+$navbar-item-hover-color: #00796B;
+$navbar-item-hover-background-color: #fff;
+
+@import "~bulma/bulma";
+
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 30vh;
+  width: 100%;
+  background-color: #CFD8DC;
+
+}
